@@ -37,8 +37,7 @@ identify growth patterns, top-performing regions, and usage behavior.
 ---
 
 ### Screenshots
-(Add dashboard screenshots here)
-
+![Dashboard Screenshot](IMG.0015.jpeg)
 ---
 
 ### Repository Contents
